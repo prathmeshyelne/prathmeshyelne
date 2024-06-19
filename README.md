@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prathmesh Yelne</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshyelne&label=Profile%20views&color=0e75b6&style=flat" alt="prathmeshyelne" /> </p>
 
