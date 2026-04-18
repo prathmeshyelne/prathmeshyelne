@@ -4,12 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshyelne&label=Profile%20views&color=0e75b6&style=flat" alt="prathmeshyelne" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmeshyelne" alt="prathmeshyelne" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/prathmeshyelne" target="blank"><img src="https://img.shields.io/twitter/follow/prathmeshyelne?logo=twitter&style=for-the-badge" alt="prathmeshyelne" /></a> </p>
-
-
-<
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prathameshyelne) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathmeshyelne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmeshyelne) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prathmeshyelne) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@prathmeshyelne) 
 
@@ -20,7 +14,6 @@
 ![](https://streak-stats.demolab.com/?user=prathmeshyelne&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prathmeshyelne&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=prathmeshyelne&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
